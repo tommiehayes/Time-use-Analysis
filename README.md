@@ -1,6 +1,4 @@
-# Time use Analysis of daily activities before and during COVID-19
-
-## Project Summary:
+# Patient Work: Time use Analysis of daily activities before and during COVID-19
 
 ### Background:
 
